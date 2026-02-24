@@ -19,3 +19,7 @@ pip-delete-this-directory.txt
 
 # Docker
 .dockerignore
+celerybeat-schedule
+db.sqlite3
+*.db
+*.sqlite3
